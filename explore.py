@@ -1,7 +1,9 @@
 import os
 import sys
 
-# File Explorer!
+# Simple File Explorer in Python!
+
+# Main function "The Navigator"
 
 
 def navigator(start):
